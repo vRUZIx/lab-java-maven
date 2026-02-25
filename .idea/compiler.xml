@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="order-data" target="17" />
+      <module name="order-logic" target="17" />
+      <module name="solution-lab-2.02-maven" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
